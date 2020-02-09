@@ -1,0 +1,25 @@
+{
+  "name": "Employee-Management-System",
+  "version": "1.0.0",
+  "description": "",
+  "main": "tracker.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neharichi/Employee-Management-System.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/neharichi/Employee-Management-System/issues"
+  },
+  "homepage": "https://github.com/neharichi/Employee-Management-System#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "inquirer": "^7.0.0",
+    "mysql": "^2.17.1"
+  }
+}
